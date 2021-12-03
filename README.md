@@ -11,7 +11,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/erik-ng-3006/404-not-found/blob/main/README.md">
       Solution
     </a>
     <span> | </span>
