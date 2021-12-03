@@ -11,11 +11,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/erik-ng-3006/404-not-found/blob/main/README.md">
+    <a href="https://github.com/erik-ng-3006/404-not-found">
       Solution
     </a>
     <span> | </span>
-    <a href="https://github.com/erik-ng-3006/404-not-found">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
