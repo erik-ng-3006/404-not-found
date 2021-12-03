@@ -50,4 +50,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@erik-ng-3006](https://https://github.com/erik-ng-3006)
+- GitHub [@erik-ng-3006](https://github.com/erik-ng-3006)
