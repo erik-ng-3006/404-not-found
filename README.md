@@ -15,7 +15,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://github.com/erik-ng-3006/404-not-found">
       Challenge
     </a>
   </h3>
